@@ -12,7 +12,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estg-ipp" height="30" width="40" />
   </a>
     <a href="https://fb.com/estgpolitecnicodoporto" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="estgpolitecnicodoporto" height="30" width="40" />´
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="estgpolitecnicodoporto" height="30" width="40" />
     </a>
     <a href="https://instagram.com/estg_pporto" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="estg_pporto" height="30" width="40" />
