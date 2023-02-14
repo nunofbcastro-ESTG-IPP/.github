@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
     <a href="https://fb.com/estgpolitecnicodoporto" target="blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Facebook&amp;color=1877F2&amp;logo=Facebook&amp;logoColor=FFFFFF&amp;label=" alt="Facebook">
     </a>
     <a href="https://instagram.com/estg_pporto" target="blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram">
